@@ -3,7 +3,7 @@
 Welcome to my Python project! This is a repository where I've built a cool Python program that does something useful. Here's how to get started with it:
 
 Installation
-Clone this repository onto your local machine using the command git clone https://github.com/your-username/my-awesome-python-project.git.
+Clone this repository onto your local machine using the command git clone https://github.com/DataEngine1/python.
 Navigate into the project directory using cd my-awesome-python-project.
 Install the required dependencies using pip install -r requirements.txt.
 Usage
